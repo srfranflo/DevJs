@@ -7,7 +7,7 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=7277
 
 // if (si)
 
-let age = 37
+let age = 18
 
 if (age == 37) {
     console.log("La edad es 37")
